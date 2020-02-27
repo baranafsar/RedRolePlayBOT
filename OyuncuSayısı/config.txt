@@ -1,0 +1,6 @@
+{
+  "prefix": "#",
+  "activityType": "WATCHING",
+  "token": "NjgyNjA0MTA2Njk5MTEyNDgy.Xlfa2Q.6xRPHw5li9uyvEjF8jbJzJm71QU",
+  "serverInfo": ["185.126.178.102", 30120]
+}

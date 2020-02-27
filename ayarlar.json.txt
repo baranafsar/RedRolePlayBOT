@@ -1,0 +1,5 @@
+{
+  "prefix": "#", 
+  "token": "NjgyNjA0MTA2Njk5MTEyNDgy.Xlfa2Q.6xRPHw5li9uyvEjF8jbJzJm71QU", 
+  "sahip": "287278943911018496" 
+}
